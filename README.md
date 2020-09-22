@@ -1,4 +1,4 @@
-JasminPrivateTest
+TestingRepo
 =================
 
-This is Jasmin'Test Repository and testing whatever about with GIT. Be Happy to join with my repo.
+This is my 'Testing Repository and just using the practice about GIT. Freely to join into my repo.
